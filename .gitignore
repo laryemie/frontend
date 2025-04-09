@@ -1,0 +1,5 @@
+# JobSkill-app/.gitignore
+node_modules/
+.env
+build/
+.netlify/
